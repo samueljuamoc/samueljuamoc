@@ -1,4 +1,9 @@
 ### Hi there 👋
+Electronics Engineer.
+Here you can find my library of code.
+Code for training and learning purposes.
+Some things are mine, some others are exercises from other creators.
+Cheers!
 
 <!--
 **samueljuamoc/samueljuamoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
