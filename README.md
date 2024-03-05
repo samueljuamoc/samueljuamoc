@@ -1,7 +1,6 @@
 ### Hi there 👋
 Electronics Engineer.
 Here's my code library for training and learning purposes.
-Some things are mine, some others are exercises from other creators.
 Cheers!
 
 <!--
