@@ -1,7 +1,7 @@
 ### Hi there 👋
 Electronics Engineer.
-Here's my code library for training and learning purposes.
-Cheers!
+Here's my library for code and PCB layouts.
+
 
 <!--
 **samueljuamoc/samueljuamoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
